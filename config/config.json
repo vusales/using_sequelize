@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "username": "root",
+    "password": "123456*Vs",
+    "port": 3307,
+    "database": "operators",
+    "dialect": "mysql"
+}
